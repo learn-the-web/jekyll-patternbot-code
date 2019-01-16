@@ -37,7 +37,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jekyll_patternbot (0.14.0)
+    jekyll_patternbot (0.21.0)
       babosa
       color_contrast_calc
       colorator
