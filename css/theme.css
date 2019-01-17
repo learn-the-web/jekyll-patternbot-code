@@ -37,7 +37,7 @@ a {
 }
 
 mark {
-  background-color: var(--color-secondary-light);
+  background-color: var(--color-secondary);
 }
 
 dt {

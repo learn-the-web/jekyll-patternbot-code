@@ -5,7 +5,7 @@ theme: jekyll_patternbot
 patternbot:
   title: "Dino Rescue"
   description: |
-    A small local dinosaur rescue organization specializing in herbivores.
+    A small local dinosaur rescue organization specializing in herbivores. Dinos are in danger and we need to save them all!
   font_url: "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
   colors:
     background: "--color-secondary-light"
@@ -21,4 +21,7 @@ patternbot:
       Georgia was selected because it’s a classic font—for classic creatures. Georgia is to be used for all body copy and most situations.
     typefaces.secondary: |
       PT Sans Narrow is only to be used for highlighting text: headings, buttons, banners, etc.
+  layouts:
+    default: |
+      The primary layout, used for most pages, contains the masthead & footer.
 
