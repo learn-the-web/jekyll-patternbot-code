@@ -8,6 +8,8 @@
 
   --font-primary: Georgia, serif;
   --font-secondary: "PT Sans Narrow", sans-serif;
+
+  --border-radius: 8px;
 }
 
 /* @utility Apply the secondary typeface */

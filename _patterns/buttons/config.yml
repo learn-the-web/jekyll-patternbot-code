@@ -1,0 +1,17 @@
+title: "Buttons, buttons—oh my!"
+description: |
+  Lots of different buttons styles, each for different reasons.
+
+patterns:
+  basic:
+    title: "Super basic button"
+    description: |
+      The basic button should be used in almost all situations.
+    fields:
+      - name: text
+        type: string
+        example: "Rescue a Diplodocus"
+  ghost:
+    description: |
+      The Ghost Button should only be used on banners, and in situations where the background is a photo.
+    width: 320

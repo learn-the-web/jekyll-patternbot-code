@@ -1,0 +1,8 @@
+patterns:
+  image:
+    width: 400
+    fields:
+      - name: data
+        data:
+          source: site.data.dinos[2]
+          type: "Dino"

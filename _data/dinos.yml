@@ -1,0 +1,14 @@
+- title: "Hadrosaur"
+  details: "Rescue this wonderful dino"
+  button_text: "Save a Hadrosaur"
+  image: "hadrosaur.jpg"
+
+- title: "Diplodocus"
+  details: "Save all the Diplodocuses!"
+  button_text: "Rescue a Diplo"
+  image: "diplodocus.jpg"
+
+- title: "Iguanodon"
+  details: "Wonderful, kinda Iguanodon"
+  button_text: "Preserve an Iguanodon"
+  image: "iguanodon.jpg"

@@ -11,6 +11,7 @@ patternbot:
     background: "--color-secondary-light"
     patterns:
       brand.logos: "--color-primary-light"
+      icons.icons.micropachycephalosaurus: "--color-primary-dark"
   rationales:
     colors.primary: |
       The primary colours represent herbivores & plants & greenery. They should be used for text and in foregrounds.
