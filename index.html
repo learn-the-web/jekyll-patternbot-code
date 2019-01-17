@@ -4,6 +4,7 @@ layout: default
 
 <div class="grid">
   <div class="unit xs-1 s-1 m-1-3 gutter-1-2">
-    {% pattern cards/image title="Iguanodon" details="Save a Iguanodon from utter destruction." image="iguanodon.jpg" button_text="Rescue and Iguanodon" %}
+    {% assign dino = site.data.dinos[0] %}
+    {% pattern cards/image data=dino %}
   </div>
 </div>
