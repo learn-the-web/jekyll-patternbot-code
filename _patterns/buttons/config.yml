@@ -1,17 +1,19 @@
-title: "Buttons, buttons—oh my!"
+title: "Buttons"
 description: |
-  Lots of different buttons styles, each for different reasons.
+  Buttons should be used in situations where a dramatic, obvious action is required. Try not to over use buttons because they should be the primary call-to-action for a screen.
 
 patterns:
   basic:
-    title: "Super basic button"
+    title: "Basic"
     description: |
-      The basic button should be used in almost all situations.
+      Default to using the basic button. It should always be used in front of light backgrounds.
+    width: "12em"
     fields:
       - name: text
         type: string
         example: "Rescue a Diplodocus"
   ghost:
+    title: "Ghost"
     description: |
-      The Ghost Button should only be used on banners, and in situations where the background is a photo.
-    width: 320
+      The ghost button is specifically for banners, where it will be placed in front of busy images.
+    background: "--color-primary-light"

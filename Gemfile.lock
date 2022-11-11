@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
+    addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     babosa (1.0.2)
     color_contrast_calc (0.5.0)
@@ -37,7 +37,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (2.1.2)
       listen (~> 3.0)
-    jekyll_patternbot (1.0.2)
+    jekyll_patternbot (1.2.0)
       babosa (~> 1)
       color_contrast_calc (~> 0.5)
       colorator (~> 1)
@@ -79,4 +79,4 @@ DEPENDENCIES
   jekyll_patternbot
 
 BUNDLED WITH
-   1.17.1
+   2.0.1
